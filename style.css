@@ -62,7 +62,7 @@ a:visited {
 	/* Appearance Declrations */
 	background-image: url('http://i.imgur.com/WPb4szm.jpg');
 	background-repeat: no-repeat;
-	background-size: cover;
+	background-size: auto;
   background-position: 0px -505px;
 	border-top: solid 1em #317873;
 }
